@@ -582,7 +582,8 @@ OCCUPANCY_TYPE_ABBREVIATIONS = frozendict({
     'SUITE': 'STE',
     'TRAILER': 'TRLR',
     'UNIT': 'UNIT',
-    'UPPER': 'UPPER'
+    'UPPER': 'UPPER',
+    '#':'#'
 })
 
 STATE_ABBREVIATIONS = frozendict({
